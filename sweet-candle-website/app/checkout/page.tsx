@@ -14,6 +14,7 @@ export default function CheckoutPage() {
           </div>
           <CheckoutForm />
         </div>
+        <></>
       </main>
       <Footer />
     </>

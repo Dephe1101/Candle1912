@@ -28,6 +28,9 @@ export default function AboutPage() {
     },
   ]
 
+  console.log("tesststssts");
+  
+
   return (
     <>
       <Header />

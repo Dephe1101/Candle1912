@@ -54,15 +54,6 @@ export default function BlogPage() {
       date: "20 Tháng 12, 2024",
       readTime: "4 phút đọc",
     },
-    {
-      id: 6,
-      title: "Ý tưởng quà tặng nến thơm cho người thân yêu",
-      excerpt: "Nến thơm là món quà ý nghĩa và thiết thực. Cùng xem các ý tưởng gift set đáng yêu nhé!",
-      image: "/blog-candle-gift-ideas-cute-packaging.jpg",
-      category: "Gift Guide",
-      date: "15 Tháng 12, 2024",
-      readTime: "3 phút đọc",
-    },
   ]
 
   return (
